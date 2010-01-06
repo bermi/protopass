@@ -4,7 +4,8 @@
  *  Inspired by http://plugins.jquery.com/project/pstrength
  *
  *  Distributable under the terms of an MIT-style license.
- *  For details, see the git site: http://git.com/bermi/password-strength-checker
+ *  For details, see the git site: 
+ *  http://github.com/bermi/password-strength-checker
  *
  *--------------------------------------------------------------------------*/
 
