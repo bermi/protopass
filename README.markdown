@@ -2,7 +2,7 @@
 
 ## © 2010 Bermi Ferrer
 
-http://github.com/bermi/password-strength-checker
+http://github.com/bermi/protopass
 
 Inspired by http://plugins.jquery.com/project/pstrength
 

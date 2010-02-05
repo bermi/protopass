@@ -5,11 +5,11 @@
  *
  *  Distributable under the terms of an MIT-style license.
  *  For details, see the git site: 
- *  http://github.com/bermi/password-strength-checker
+ *  http://github.com/bermi/protopass
  *
  *--------------------------------------------------------------------------*/
 
-var PasswordStrengthChecker = Class.create({
+var Protopass = Class.create({
     initialize : function(item, options) {
         this.item = $(item);
         this.field_name = this.item.id;
